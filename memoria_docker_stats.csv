@@ -1,0 +1,62 @@
+t_s,mem_usage,cpu_pct,ollama_ps
+1.9,329.1MiB / 7.603GiB,0.00%,
+4.4,339.4MiB / 7.603GiB,0.00%,
+7.0,420.1MiB / 7.603GiB,49.04%,
+9.6,689.1MiB / 7.603GiB,22.12%,
+12.1,940.6MiB / 7.603GiB,19.66%,
+14.7,1.234GiB / 7.603GiB,13.27%,
+17.6,1.376GiB / 7.603GiB,786.39%,qwen2.5:1.5b-instruct-q4_K_M    65ec06548149    1.1 GB    100% CPU     2048       llamacpp    4 minutes from now
+20.4,1.375GiB / 7.603GiB,792.26%,qwen2.5:1.5b-instruct-q4_K_M    65ec06548149    1.1 GB    100% CPU     2048       llamacpp    4 minutes from now
+23.2,1.376GiB / 7.603GiB,791.15%,qwen2.5:1.5b-instruct-q4_K_M    65ec06548149    1.1 GB    100% CPU     2048       llamacpp    4 minutes from now
+26.0,1.373GiB / 7.603GiB,788.20%,qwen2.5:1.5b-instruct-q4_K_M    65ec06548149    1.1 GB    100% CPU     2048       llamacpp    4 minutes from now
+28.8,1.373GiB / 7.603GiB,789.96%,qwen2.5:1.5b-instruct-q4_K_M    65ec06548149    1.1 GB    100% CPU     2048       llamacpp    4 minutes from now
+31.6,1.372GiB / 7.603GiB,799.02%,qwen2.5:1.5b-instruct-q4_K_M    65ec06548149    1.1 GB    100% CPU     2048       llamacpp    4 minutes from now
+34.4,1.39GiB / 7.603GiB,789.80%,qwen2.5:1.5b-instruct-q4_K_M    65ec06548149    1.1 GB    100% CPU     2048       llamacpp    4 minutes from now
+37.2,1.39GiB / 7.603GiB,801.59%,qwen2.5:1.5b-instruct-q4_K_M    65ec06548149    1.1 GB    100% CPU     2048       llamacpp    4 minutes from now
+40.0,1.39GiB / 7.603GiB,796.18%,qwen2.5:1.5b-instruct-q4_K_M    65ec06548149    1.1 GB    100% CPU     2048       llamacpp    4 minutes from now
+42.8,1.39GiB / 7.603GiB,794.38%,qwen2.5:1.5b-instruct-q4_K_M    65ec06548149    1.1 GB    100% CPU     2048       llamacpp    4 minutes from now
+45.6,1.391GiB / 7.603GiB,789.40%,qwen2.5:1.5b-instruct-q4_K_M    65ec06548149    1.1 GB    100% CPU     2048       llamacpp    4 minutes from now
+48.4,1.39GiB / 7.603GiB,796.85%,qwen2.5:1.5b-instruct-q4_K_M    65ec06548149    1.1 GB    100% CPU     2048       llamacpp    4 minutes from now
+51.2,1.393GiB / 7.603GiB,783.56%,qwen2.5:1.5b-instruct-q4_K_M    65ec06548149    1.1 GB    100% CPU     2048       llamacpp    4 minutes from now
+53.9,1.391GiB / 7.603GiB,791.85%,qwen2.5:1.5b-instruct-q4_K_M    65ec06548149    1.1 GB    100% CPU     2048       llamacpp    4 minutes from now
+56.7,1.413GiB / 7.603GiB,788.06%,qwen2.5:1.5b-instruct-q4_K_M    65ec06548149    1.1 GB    100% CPU     2048       llamacpp    4 minutes from now
+59.5,1.413GiB / 7.603GiB,785.66%,qwen2.5:1.5b-instruct-q4_K_M    65ec06548149    1.1 GB    100% CPU     2048       llamacpp    4 minutes from now
+62.3,1.413GiB / 7.603GiB,790.96%,qwen2.5:1.5b-instruct-q4_K_M    65ec06548149    1.1 GB    100% CPU     2048       llamacpp    4 minutes from now
+65.0,1.413GiB / 7.603GiB,798.35%,qwen2.5:1.5b-instruct-q4_K_M    65ec06548149    1.1 GB    100% CPU     2048       llamacpp    4 minutes from now
+67.8,1.413GiB / 7.603GiB,788.28%,qwen2.5:1.5b-instruct-q4_K_M    65ec06548149    1.1 GB    100% CPU     2048       llamacpp    4 minutes from now
+70.6,1.413GiB / 7.603GiB,791.67%,qwen2.5:1.5b-instruct-q4_K_M    65ec06548149    1.1 GB    100% CPU     2048       llamacpp    4 minutes from now
+73.1,353.1MiB / 7.603GiB,721.20%,
+75.6,657.9MiB / 7.603GiB,7.26%,
+78.1,977.1MiB / 7.603GiB,8.43%,
+80.7,1.246GiB / 7.603GiB,12.93%,
+83.2,1.528GiB / 7.603GiB,13.47%,
+85.8,1.801GiB / 7.603GiB,15.00%,
+88.6,2GiB / 7.603GiB,685.06%,qwen2.5:1.5b-instruct-q8_0    b19683a34698    1.8 GB    100% CPU     2048       llamacpp    4 minutes from now
+91.5,1.999GiB / 7.603GiB,787.00%,qwen2.5:1.5b-instruct-q8_0    b19683a34698    1.8 GB    100% CPU     2048       llamacpp    4 minutes from now
+94.4,1.998GiB / 7.603GiB,783.35%,qwen2.5:1.5b-instruct-q8_0    b19683a34698    1.8 GB    100% CPU     2048       llamacpp    4 minutes from now
+97.3,1.997GiB / 7.603GiB,784.22%,qwen2.5:1.5b-instruct-q8_0    b19683a34698    1.8 GB    100% CPU     2048       llamacpp    4 minutes from now
+100.1,1.998GiB / 7.603GiB,797.75%,qwen2.5:1.5b-instruct-q8_0    b19683a34698    1.8 GB    100% CPU     2048       llamacpp    4 minutes from now
+103.0,1.998GiB / 7.603GiB,790.91%,qwen2.5:1.5b-instruct-q8_0    b19683a34698    1.8 GB    100% CPU     2048       llamacpp    4 minutes from now
+105.9,2.011GiB / 7.603GiB,789.91%,qwen2.5:1.5b-instruct-q8_0    b19683a34698    1.8 GB    100% CPU     2048       llamacpp    4 minutes from now
+108.8,2.011GiB / 7.603GiB,788.56%,qwen2.5:1.5b-instruct-q8_0    b19683a34698    1.8 GB    100% CPU     2048       llamacpp    4 minutes from now
+111.6,2.01GiB / 7.603GiB,794.38%,qwen2.5:1.5b-instruct-q8_0    b19683a34698    1.8 GB    100% CPU     2048       llamacpp    4 minutes from now
+114.5,2.011GiB / 7.603GiB,796.99%,qwen2.5:1.5b-instruct-q8_0    b19683a34698    1.8 GB    100% CPU     2048       llamacpp    4 minutes from now
+117.3,2.01GiB / 7.603GiB,789.79%,qwen2.5:1.5b-instruct-q8_0    b19683a34698    1.8 GB    100% CPU     2048       llamacpp    4 minutes from now
+120.1,2.011GiB / 7.603GiB,788.90%,qwen2.5:1.5b-instruct-q8_0    b19683a34698    1.8 GB    100% CPU     2048       llamacpp    4 minutes from now
+123.0,2.01GiB / 7.603GiB,787.27%,qwen2.5:1.5b-instruct-q8_0    b19683a34698    1.8 GB    100% CPU     2048       llamacpp    4 minutes from now
+125.8,2.011GiB / 7.603GiB,783.55%,qwen2.5:1.5b-instruct-q8_0    b19683a34698    1.8 GB    100% CPU     2048       llamacpp    4 minutes from now
+128.7,2.011GiB / 7.603GiB,786.42%,qwen2.5:1.5b-instruct-q8_0    b19683a34698    1.8 GB    100% CPU     2048       llamacpp    4 minutes from now
+131.5,2.01GiB / 7.603GiB,791.07%,qwen2.5:1.5b-instruct-q8_0    b19683a34698    1.8 GB    100% CPU     2048       llamacpp    4 minutes from now
+134.3,2.029GiB / 7.603GiB,792.01%,qwen2.5:1.5b-instruct-q8_0    b19683a34698    1.8 GB    100% CPU     2048       llamacpp    4 minutes from now
+137.1,2.028GiB / 7.603GiB,795.50%,qwen2.5:1.5b-instruct-q8_0    b19683a34698    1.8 GB    100% CPU     2048       llamacpp    4 minutes from now
+140.0,2.029GiB / 7.603GiB,782.47%,qwen2.5:1.5b-instruct-q8_0    b19683a34698    1.8 GB    100% CPU     2048       llamacpp    4 minutes from now
+142.9,2.029GiB / 7.603GiB,791.23%,qwen2.5:1.5b-instruct-q8_0    b19683a34698    1.8 GB    100% CPU     2048       llamacpp    4 minutes from now
+145.7,2.029GiB / 7.603GiB,788.31%,qwen2.5:1.5b-instruct-q8_0    b19683a34698    1.8 GB    100% CPU     2048       llamacpp    4 minutes from now
+148.6,2.028GiB / 7.603GiB,792.30%,qwen2.5:1.5b-instruct-q8_0    b19683a34698    1.8 GB    100% CPU     2048       llamacpp    4 minutes from now
+151.4,2.028GiB / 7.603GiB,792.71%,qwen2.5:1.5b-instruct-q8_0    b19683a34698    1.8 GB    100% CPU     2048       llamacpp    4 minutes from now
+154.3,2.029GiB / 7.603GiB,800.52%,qwen2.5:1.5b-instruct-q8_0    b19683a34698    1.8 GB    100% CPU     2048       llamacpp    4 minutes from now
+157.2,2.029GiB / 7.603GiB,792.53%,qwen2.5:1.5b-instruct-q8_0    b19683a34698    1.8 GB    100% CPU     2048       llamacpp    4 minutes from now
+160.0,2.029GiB / 7.603GiB,785.85%,qwen2.5:1.5b-instruct-q8_0    b19683a34698    1.8 GB    100% CPU     2048       llamacpp    4 minutes from now
+162.9,2.028GiB / 7.603GiB,795.30%,qwen2.5:1.5b-instruct-q8_0    b19683a34698    1.8 GB    100% CPU     2048       llamacpp    4 minutes from now
+165.7,2.029GiB / 7.603GiB,796.19%,qwen2.5:1.5b-instruct-q8_0    b19683a34698    1.8 GB    100% CPU     2048       llamacpp    4 minutes from now
+168.6,2.028GiB / 7.603GiB,800.77%,qwen2.5:1.5b-instruct-q8_0    b19683a34698    1.8 GB    100% CPU     2048       llamacpp    4 minutes from now
