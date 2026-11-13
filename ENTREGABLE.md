@@ -1,7 +1,7 @@
 # Entregable Laboratorio 1: Benchmarking de Serving Local y Cuantización
 
 - **Curso:** LLMOps, Serving Local y Arquitecturas RAG
-- **Estudiante:** _(completar nombre completo)_
+- **Estudiante:** Nicolás Gaviria Cerón
 - **Hardware utilizado:** AMD Ryzen 7 7435HS, 16 GB RAM (Docker Desktop/WSL2 con 7,6 GiB), Windows 11, solo CPU
 - **Fecha:** 13 de noviembre de 2026
 - **Modelo:** Qwen2.5-1.5B-Instruct en `q4_K_M` y `q8_0`, servido con Ollama en Docker
